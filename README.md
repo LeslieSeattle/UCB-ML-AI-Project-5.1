@@ -1,7 +1,6 @@
 # UCB-ML-AI-Project-5.1
 
-
-READ ME FILE
+Python Jupyter Notebook URL:   https://github.com/LeslieSeattle/UCB-ML-AI-Project-5.1/blob/main/prompt.ipynb
 
 This is the first Practical Application Assignment (assignment 5.1) for the UC Berkeley Professional Certificate in Machine Learning and Artificial Intelligence, summer 2024.
 
